@@ -14,7 +14,7 @@ body {
 }
 
 .accordion-button:not(.collapsed) {
-  color: #fff;
+  color: #ffffff;
   background-color: #343a40; /* Dark grey */
 }
 
